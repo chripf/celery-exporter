@@ -8,3 +8,4 @@ dist
 images
 __pycache__
 vendor
+celery-exporter
